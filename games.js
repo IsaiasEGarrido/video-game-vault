@@ -4,4 +4,4 @@ const games = [
   { id: 3, title: "Hades", platform: "Nintendo Switch", status: "Backlog", hoursPlayed: 0 }
 ];
 
-module.exports = games;
+module.exports = games; 
